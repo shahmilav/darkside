@@ -1,0 +1,30 @@
+# If `true`, bold text is drawn using the bright color variants.
+draw_bold_text_with_bright_colors: true
+colors:
+  # Default colors
+  primary:
+    background: '#121212'
+    foreground: '#acb1bd'
+
+  # Normal colors
+  normal:
+    black: '#121212'
+    red: '#d17277'
+    green: '#a0c180'
+    yellow: '#c89c6d'
+    blue: '#73ade9'
+    magenta: '#bb7bd7'
+    cyan: '#6fb3bf'
+    white: '#abb2bf'
+
+  # Bright colors
+  bright:
+    black: '#5c6370'
+    red: '#e06c75'
+    green: '#98c379'
+    yellow: '#d19a66'
+    blue: '#61afef'
+    magenta: '#c678dd'
+    cyan: '#56b6c2'
+    white: '#feffff'
+theme: darkside
