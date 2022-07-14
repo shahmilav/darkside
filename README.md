@@ -1,6 +1,6 @@
 # Welcome to the Darkside.
 
-Dark themes insipired by Atom One Dark and [Material Design](https://material.io/).
+Dark theme insipired by Atom One Dark and [Material Design](https://material.io/).
 
 ## Ports available for
 - [X] [iTerm2](./iTerm2/)
